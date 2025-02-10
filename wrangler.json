@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "lucky-sea-1d9a",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "2a7c9f10-aa3f-4048-bad7-c9bae871c31a",
+      "database_name": "orange-hill-2926-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
